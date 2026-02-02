@@ -10,18 +10,18 @@ I build **privacy-first AI tools** that keep your data local while leveraging th
 ## 🚀 Live Products
 
 > 💪 **[workout.computer](https://workout.computer)**  
-> Bring your own workout tracking app
+> Bring your own workout tracking app (Free)
 
 > 📰 **[GitInformed.com](https://gitinformed.com)**  
-> AI-enhanced tech RSS reader grouped by topics with live newsletter
+> AI-enhanced tech RSS reader grouped by topics with live newsletter (Free, 5000+ MAU)
 
 > 🏈 **[WaiverBuddy.xyz](https://waiverbuddy.xyz)**  
-> Weekly NFL waiver wire assistant for fantasy football leagues
+> Weekly NFL waiver wire assistant for fantasy football leagues 
 
 ## 🚀 Featured Open Source Projects
 
 ### [**Local LLM Helper**](https://github.com/manimohans/obsidian-local-llm-helper) ![Stars](https://img.shields.io/github/stars/manimohans/obsidian-local-llm-helper?style=social)
-Privacy-first Obsidian plugin integrating local LLMs (Ollama, OpenAI, LM Studio). Features text summarization, professional tone adjustment, action item generation, and an interactive chat interface with your notes.
+Privacy-first Obsidian plugin integrating local LLMs (Ollama, OpenAI, LM Studio). Features text summarization, professional tone adjustment, action item generation, and an interactive chat interface with your notes. (4500+ installs)
 
 **Tech:** TypeScript, Ollama, LlamaIndex
 
