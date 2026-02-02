@@ -3,8 +3,8 @@
 I build **privacy-first AI tools** that keep your data local while leveraging the power of LLMs.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manimohans&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manimohans&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manimohans&theme=dark"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manimohans&theme=dark"/>
 </div>
 
 ## 🚀 Featured Projects
