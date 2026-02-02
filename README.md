@@ -4,7 +4,7 @@ I build **privacy-first AI tools** that keep your data local while leveraging th
 
 <div align="center">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manimohans&theme=dark"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manimohans&theme=dark"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manimohans&theme=dark"/>
 </div>
 
 ## 🚀 Featured Projects
